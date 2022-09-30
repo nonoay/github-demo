@@ -5,3 +5,5 @@ console.log('hello')
 
 console.log('ls修改')
 console.log('nice')
+console.log('nice')
+
